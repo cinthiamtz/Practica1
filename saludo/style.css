@@ -1,6 +1,14 @@
 
 
+
 h1 {
     background-color: black;
-    color: beige;
+    color: beige;  
+    padding: 20;
+    text-align: center;
+}
+
+h2{
+    padding: 5px;
+    text-align: center;
 }
